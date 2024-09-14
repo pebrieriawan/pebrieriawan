@@ -12,6 +12,6 @@ I'm **`Pebri Eriawan`** an 20 y.o. information system student at "Institut Tekno
 <p align="left">
 <a href="https://github.com/pebrieriawan">
   <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=pebrieriawan&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=pebrieriawan&layout=compact&theme=material-palenight"/>
+  <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=pebrieriawan&theme=material-palenight"/>
 </a>
 </p>
