@@ -1,6 +1,6 @@
 ## Hi There 👋
 
-I'm **`Pebri Eriawan`** an 20 y.o. information system student at "Institut Teknologi Dan Bisnis STIKOM BALI", I have a strong interest in Computer Science and Technology, and I am currently studying this field diligently to enhance my knowledge and skills.
+I'm **`Pebri Eriawan`**, a 22 y.o. Information Systems graduate from "Institut Teknologi dan Bisnis STIKOM Bali". I have a strong interest in Computer Science and Technology, and I am continuously exploring this field to further enhance my knowledge and skills.
 
 - 👀 I’m Looking to Collaborate on Open-Source Projects.
 - ⚡ Fun Fact : &nbsp;I'm a Linux Enthusiast
